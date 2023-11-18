@@ -27,14 +27,17 @@
 
 ## OUTPUT:
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/9e41de91-6dcc-4352-ab44-443028d3ac1a)
+![245534263-c6061429-ee38-4d51-8db6-618341c1e22e](https://github.com/vishnupriyaramesh17/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/119393589/b57f73e0-982d-46cd-9031-4ec81ba4594b)
+
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
 ## Output:
+![240878915-4b644c3f-cfe0-4d57-ac1f-2a75e07be6cf](https://github.com/vishnupriyaramesh17/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/119393589/a6bc1ef5-a700-4471-a6ef-6c47cc8577ed)
 
-### Name:
-### Register Number:
+
+### Name: Vishnupriya R
+### Register Number: 212222110054
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
